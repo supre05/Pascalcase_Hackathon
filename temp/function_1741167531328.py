@@ -1,0 +1,2 @@
+print('hihi')
+print('bye')
